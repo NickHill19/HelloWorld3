@@ -10,6 +10,7 @@ namespace HelloWorld3
             Console.WriteLine("UW-Madison");
             Console.WriteLine("Brookfield Central");
             Console.WriteLine("Brookfield Central Tennis Grind");
+            Console.WriteLine("Sacramento, California");
             Console.ReadKey();
         }
     }
